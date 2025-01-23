@@ -1,9 +1,9 @@
 # 🌐🗣️ Multilingual VoiceBot: Bridging India's Language Barriers with AI
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/multilingual-voicebot/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-green)](https://www.python.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/multilingual-voicebot)](https://github.com/yourusername/multilingual-voicebot/commits/main)
-[![Contributors](https://img.shields.io/badge/contributors-1-orange)](https://github.com/yourusername/multilingual-voicebot/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/multilingual-voicebot)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/commits/main)
+[![Contributors](https://img.shields.io/badge/contributors-1-orange)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/graphs/contributors)
 
 ---
 
