@@ -1,0 +1,10 @@
+huggingface_hub
+pydub
+librosa
+langchain-huggingface
+langchain
+langchain-core
+audio-recorder-streamlit
+toml
+crewai 
+crewai-tools

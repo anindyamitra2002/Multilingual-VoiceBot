@@ -1,0 +1,9 @@
+[submodule "Fastspeech2_HS_Flask_API"]
+	path = Fastspeech2_HS_Flask_API
+	url = https://huggingface.co/k-m-irfan/Fastspeech2_HS_Flask_API
+[submodule "IndicTransToolkit"]
+	path = IndicTransToolkit
+	url = https://github.com/VarunGumma/IndicTransToolkit.git
+[submodule "LIDv2"]
+	path = LIDv2
+	url = https://github.com/NLTM-LID/LID-version-2.0.git
