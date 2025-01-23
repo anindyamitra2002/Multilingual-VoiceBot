@@ -2,7 +2,7 @@
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-green)](https://www.python.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/multilingual-voicebot)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/commits/main)
+![GitHub last commit](https://img.shields.io/github/last-commit/anindyamitra2002/Multilingual-VoiceBot)
 [![Contributors](https://img.shields.io/badge/contributors-1-orange)](https://github.com/anindyamitra2002/Multilingual-VoiceBot/graphs/contributors)
 
 ---
@@ -70,7 +70,8 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 - Real-time audio processing with noise filtering  
 - GUI + CLI interfaces for flexible deployment  
 
-**Model Architecture**:  
+**Model Architecture**:
+![LiDv2 Diagram](./assets/lang_detect_arch.png)
 - **Base Model**: `ccc-wav2vec` from IIT Madras SPRING Lab  
 - **Feature Extraction**: u-vector embeddings with Within Sample Similarity Loss (WSSL)  
 - **Classifier**: Feedforward Neural Network  
@@ -96,7 +97,7 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 - Supports code-switched speech  
 
 **Model Architecture**:  
-![CCC-Wav2vec Diagram](media/image4.png)  
+![CCC-Wav2vec Diagram](./assets/asr-arch.png)  
 - **Encoder**: 24-layer Transformer  
 - **Quantizer**: Gumbel-Softmax clustering  
 - **Loss Function**: $L_{cc} = αL_c + βL_{cross} + γL_{cross'}$
