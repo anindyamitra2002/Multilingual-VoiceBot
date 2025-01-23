@@ -51,7 +51,7 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 - 🔄 **Real-time Translation** - Instantly convert between any supported languages  
 - 📱 **Mobile Ready** - Works smoothly on smartphones & low-end devices
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-india-s-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
