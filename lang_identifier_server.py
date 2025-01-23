@@ -2,7 +2,7 @@ import litserve as ls
 import os
 import numpy as np
 from scipy.io.wavfile import write
-from LIDv2.detect_lang import initialize_model, predict_language_wav
+from detect_lang import initialize_model, predict_language_wav
 # Assuming the previous model setup functions are imported
 # from the previously written code
 

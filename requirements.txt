@@ -8,3 +8,4 @@ audio-recorder-streamlit
 toml
 crewai 
 crewai-tools
+openai

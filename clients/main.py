@@ -9,10 +9,7 @@ from translator_client import translate_text
 # from llm_client import get_answer
 from tts_client_api import tts_client
 from audiorecorder import audiorecorder
-import numpy as np
 import librosa
-from pydub import AudioSegment
-import io
 
 import os
 from langchain_huggingface import HuggingFaceEndpoint

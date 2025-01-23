@@ -1,7 +1,5 @@
 # commands for installing the prerequisite of IndicTranslator models
-git clone https://github.com/AI4Bharat/IndicTrans2.git
-cd /IndicTrans2/huggingface_interface
-capture
+
 python3 -m pip install nltk sacremoses pandas regex mock transformers>=4.33.2 mosestokenizer
 python3 -c "import nltk; nltk.download('punkt')"
 python3 -m pip install bitsandbytes scipy accelerate datasets
