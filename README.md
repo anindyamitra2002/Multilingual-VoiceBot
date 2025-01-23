@@ -18,13 +18,13 @@
   - [4. LLM Module](#4-llm-module-meta-llama-3-8b-instruct-)
   - [5. TTS Module](#5-tts-module-fastspeech2--hifi-gan-)
 - [🏆 Benchmark Scores](#-benchmark-scores)
-- [🚀 Getting Started](#-getting-started)
+- [🚀 Getting Started](#%EF%B8%8F-getting-started)
   - [Prerequisites](#-prerequisites)
   - [Installation Guide](#-installation-guide)
   - [Component Configuration](#-component-configuration)
   - [Service Initialization](#-service-initialization)
   - [Accessing the System](#-accessing-the-system)
-- [🛠️ Troubleshooting Guide](#-troubleshooting-guide)
+- [🛠️ Troubleshooting Guide](#%EF%B8%8F-troubleshooting-guide)
 - [📌 Roadmap & Progress](#-roadmap--progress)
 - [📚 Additional Resources](#-additional-resources)
 - [🙏 Acknowledgements](#-acknowledgements)
@@ -234,7 +234,7 @@ Meta-Llama-3-8B-Instruct benchmark score
 
 ---
 
-## 🌟️ Getting Started
+## 🚀 Getting Started
 
 
 ### 📋 Prerequisites
@@ -416,7 +416,7 @@ streamlit run --server.port 8500 clients/main.py
 - **Models**: AI4Bharat (IndicTrans2), Meta AI (Llama-3), IIT Madras (CCC-Wav2Vec).
 - **Tools**: Hugging Face, Lightning Studio, FFmpeg.
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-india's-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
