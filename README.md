@@ -18,7 +18,7 @@
   - [4. LLM Module](#4-llm-module-meta-llama-3-8b-instruct-)
   - [5. TTS Module](#5-tts-module-fastspeech2--hifi-gan-)
 - [🏆 Benchmark Scores](#-benchmark-scores)
-- [🚀 Getting Started](#%EF%B8%8F-getting-started)
+- [🚀 Getting Started](#-getting-started)
   - [Prerequisites](#-prerequisites)
   - [Installation Guide](#-installation-guide)
   - [Component Configuration](#-component-configuration)
@@ -58,6 +58,8 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 ## 📊 Workflow Diagram
 ![Workflow](media/image2.png)  
 *Figure 1: End-to-end pipeline of Multilingual VoiceBot*
+
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
