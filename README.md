@@ -85,7 +85,7 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 | Bengali    | 17.2         | 20.5     | 13.9     |  
 | Tamil      | 30.0         | 20.8     | 24.4     |  
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -123,7 +123,7 @@ Word Error Rates without use of Language Models across various Languages
  
 </div>
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -149,7 +149,7 @@ Test result of IndicTrans2 on Indic languages
 | **Indic-En** | 62.9     | 58.4     | 56.3     | 65.0     | 51.7     | 61.4     | 59.7     | 47.5     | 52.6     | 55.2     | 54.3     | 57.5     | 59.6     | 63.0     | 59.8     | 63.0     | 38.8     | 43.5     | 49.6     | 46.8     | 53.3     | 65.5     | 52.7 | 4.4 |
 
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -176,7 +176,7 @@ Meta-Llama-3-8B-Instruct benchmark score
 |                        | MATH (4-shot, CoT)   | 30.0       | 3.8        | 6.7         | 50.4        | 11.6         |
 
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -201,7 +201,7 @@ Meta-Llama-3-8B-Instruct benchmark score
 | **Female Voice (%)** | 69.44 (3.72)          | 72.66 (4.14) | 58.93 (3.93) | 80.77 (4.17) | 69.64 (4.26) | 48.86 (4.20) | 43.75 (3.79) | 37.50 (2.68)          | 76.78 (4.02) | 59.38 (3.19)      | 93.75 (4.47)            | 55.11 (3.95) | 84.17 (3.73) |
 
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -229,7 +229,7 @@ Meta-Llama-3-8B-Instruct benchmark score
 | Bengali   | 4.14      |
 | Marathi   | 4.21      |
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -358,7 +358,7 @@ streamlit run --server.port 8500 clients/main.py
 
 ![Interface Preview](media/interface-demo.gif)
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -382,7 +382,7 @@ streamlit run --server.port 8500 clients/main.py
 | TTS Engine | 5000 |
 | Web UI | 8500 |
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -397,7 +397,7 @@ streamlit run --server.port 8500 clients/main.py
 |   ⬜  | Document Q&A System          | PDF/TXT analysis pipeline        |
 |   ⬜  | Multimodal Input Support     | Image+Voice simultaneous processing |
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -407,7 +407,7 @@ streamlit run --server.port 8500 clients/main.py
 - [Performance Tuning Guide](docs/PERFORMANCE.md)
 - [API Reference](docs/API.md)
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
@@ -422,7 +422,7 @@ streamlit run --server.port 8500 clients/main.py
 ## 📜 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#%EF%B8%8F-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
 
 ---
 
