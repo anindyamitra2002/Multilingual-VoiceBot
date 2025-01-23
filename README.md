@@ -51,7 +51,7 @@ The Multilingual VoiceBot revolutionizes cross-linguistic communication in India
 - 🔄 **Real-time Translation** - Instantly convert between any supported languages  
 - 📱 **Mobile Ready** - Works smoothly on smartphones & low-end devices
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#-multilingual-voicebot-bridging-india-s-language-barriers-with-ai)
 
 ---
 
@@ -415,7 +415,7 @@ streamlit run --server.port 8500 clients/main.py
 - **Models**: AI4Bharat (IndicTrans2), Meta AI (Llama-3), IIT Madras (CCC-Wav2Vec).
 - **Tools**: Hugging Face, Lightning Studio, FFmpeg.
 
-[↑ Back to Top](#-multilingual-voicebot-bridging-indias-language-barriers-with-ai)
+[↑ Back to Top](#-multilingual-voicebot-bridging-india's-language-barriers-with-ai)
 
 ---
 
