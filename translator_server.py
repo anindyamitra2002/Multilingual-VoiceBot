@@ -1,7 +1,7 @@
 import torch
 import litserve as ls
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from IndicTransToolkit.IndicTransToolkit import IndicProcessor
+from IndicTransToolkit import IndicProcessor
 from mosestokenizer import MosesSentenceSplitter
 from nltk import sent_tokenize
 from indicnlp.tokenize.sentence_tokenize import sentence_split, DELIM_PAT_NO_DANDA
@@ -152,7 +152,7 @@ if __name__ == "__main__":
     api = IndicTransLitAPI()
     
     # Configure the server with 4 GPUs and 2 workers per device, total 8 copies
-    server = ls.LitServer(api, accelerator="cuda", devices="auto", workers_per_device=2, api_path="/translate")
+    server = ls.LitServer(api, accelerator="auto", devices="auto", api_path="/translate")
     
     # Run the server on port 8000
     server.run(port=8000, reload=True)
